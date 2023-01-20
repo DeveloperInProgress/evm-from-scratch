@@ -2077,7 +2077,7 @@
     },
     "expect": {
       "success": true,
-      "return": "a2"
+      "returns": "a2"
     }
   },
   {
@@ -2089,7 +2089,7 @@
     },
     "expect": {
       "success": false,
-      "return": "f1"
+      "returns": "f1"
     }
   },
   {
